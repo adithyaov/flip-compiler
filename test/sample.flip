@@ -1,0 +1,6 @@
+set rotate 50   
+pane 10 "/mnt/c/Users/mota/Desktop/LinuxWorkStation/Prog/flip-lang/test/spin.png"  
+set rotate 20 > fade 10
+pane 5 "/mnt/c/Users/mota/Desktop/LinuxWorkStation/Prog/flip-lang/test/spin.png"  
+end  
+end
