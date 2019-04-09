@@ -19,6 +19,9 @@ set rotate 50 > modifier2 > fade 20
   pane 10 "mario_end.png"
 end
 ```
+`set` takes a sequence of modifiers and applies it in that order.
+
+`pane` takes the number of pages to repeat the image, which is the second parameter.
 Indentation is not required.
 
 Currently 2 modifiers are supported, `rotate` and `fade`.
